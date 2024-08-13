@@ -1,6 +1,6 @@
-# UrbanBazaar ** Designed By Kambar Ali**
+# FashionFable Designed By Kambar Ali
 
-**UrbanBazaar** is a modern, responsive e-commerce website designed for a seamless shopping experience. This project is built using the latest front-end technologies and is aimed at providing a user-friendly interface with dynamic features for an engaging user experience.
+**FashionFable** is a modern, responsive e-commerce website designed for a seamless shopping experience. This project is built using the latest front-end technologies and is aimed at providing a user-friendly interface with dynamic features for an engaging user experience.
 
 ## Table of Contents
 
