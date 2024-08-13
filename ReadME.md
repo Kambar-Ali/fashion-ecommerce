@@ -11,7 +11,7 @@
 
 ## Demo
 
-You can view the live demo of the project here: [UrbanBazaar Demo](#)
+You can view the live demo of the project here: [[UrbanBazaar Demo](https://fashionfable.netlify.app/)](#)
 
 ## Features
 
